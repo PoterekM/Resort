@@ -1,9 +1,18 @@
 body {
-  background-color: burlywood;
+  background-color: lightsteelblue;
   text-align: center;
   padding: 50px;
 }
 
 h1 {
-  color: indianred;
+  color: darkslateblue;
+}
+h2 {
+  color: darkslateblue;
+}
+h3 {
+  color: darkslateblue;
+}
+p {
+  color: darkslateblue;
 }
